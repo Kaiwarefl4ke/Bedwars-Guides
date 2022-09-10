@@ -1,32 +1,46 @@
 # Bedwars-Guides
-A Guide for Bedwars.
+A Guide for Bedwars. (9/10)
 
-This method has been popularized by the Youtuber Vixon. It is very effective at killing people with melee damage. This method also requires 8 ems, but you have some leeway with this method. After you have 8 ems, you buy a Diamond Sword and either a pearl or a full set of pots, or a tracker and Invis! The Diamond sword is the most important part. Then, you wait until you have sharpness THEN you attack. Sharpness is critical in this strategy because if you don't, you will get bested by someone else with sharpness. The benefit of this strat is that you don't need to be good at PVP! just trade hits with your opponents and you will win every single time. Make sure to buy a lot of gaps and BLOCKHIT BLOCKHIT BLOCKHIT!
+## General Tips
 
-ベッドウォーズメモ 9/3
+__Rush__:
+- 上を取る
+- 味方が強いなら初動はTNT
+- 突撃する準備が鉄/金不足で十分できないときはダイア回収などして待つ
+- なるべく早く拠点から出る (早い人が死んで戻ってきたとき資源がなくて困る)
+-
 
-なるべく島の上にブリッジをつなげる
-ダイア回収すると味方に好かれる
-常にトラップをつける
-できる時に敵の位置/ブリッジを確認する
-pvpではブロックを使う
-上を取られてる時は梯子を使う
-2s/3sのソロラッシュの初動はTNT
-ダイアの優先順位はベッドある時
-トラップ>prot1>sharp>prot2+>haste,forge,heal
-基本上取ってる方が有利
-ゲーム開始から 3分-4分が最初のダイア回収のタイミング (3s/4s)
-拠点周り以外のダイア島のダイアは回収しないときは捨てる
+__Defend__:
+- 常にMiner Fatigue Trapをつける
+- 拠点から繋がってる橋の数を減らす
+- ダイアモンドの優先順位は Miner Fatigue Trap > Sharpness > Protection > Heal Pool = Haste(相手の防衛がObsidianのとき) > Forge
+-
 
-dreamgroveは羊毛32で特攻する
+__Clutch__: 
+- FB/TNTでBBする
+- Sharpness + Protectionを最低1つける
+- エメラルドを8個回収してダイア剣 + pot3種/ダイア剣 + エンダーパールを買う
+- 味方と敵の位置を把握する
+- Midに行けなさそうならダイア回収しつつ金リンゴで耐える
+-
 
-fkdr狙いの時は3fkdr+ & 300star以上は避ける (2fkdr+ & 200star)
+__Random__:
+- 強い人の言うことを聞く
+- 常にはしご + 石剣を持っておく
+- Stats気にしてるときは2FKDR/300star以上のパーティーは避ける
+- Block Trickを使う
+- 敵の位置をできるだけ把握する
+- 攻めてる間に壊されることが多いならもっとダイア回収をするべき
+- 
 
-Clutch: 
-BBは出来るだけFB & TNTを使う
-なるべくjump inv pearl milk揃えてbbする
-味方と敵の位置を把握する (編集済)
+## Tips on modes
 
+__Solos__:
+- 隣チーム最速でを潰して堅実に立ち回る
+- ラッシュの方向がわかりにくいMapは控える
+- MidからFBで拠点までこれるようなMapは控える
+- 
 
-
-
+__Doubles__:
+- 1人防衛 1人攻め
+- 防衛は鉄が多いならEndstone/少ないならWood
