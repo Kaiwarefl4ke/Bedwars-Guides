@@ -30,6 +30,8 @@ __Random__:
 - 攻めてる間に壊されることが多いなら攻めすぎ or 味方が弱い
 - 拠点にいるときは味方と資材を共有する
 
+- A Tip by Telly: Drag click to take no KB
+
 ## Tips on modes
 
 __Solos__:
@@ -51,4 +53,3 @@ __Quads__:
 
 ## Useful Videos
 https://www.youtube.com/watch?v=fsezJ_3iSI0
-https://www.youtube.com/watch?v=SHQqzvGvtkk
