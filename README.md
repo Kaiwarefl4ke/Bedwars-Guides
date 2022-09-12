@@ -48,3 +48,6 @@ __Trios__:
 
 __Quads__:
 - IYN -> 2人防衛 2人ブリッジで2人ずつに分かれる ブリッジの人は防衛の人に金を4つ投げて 防衛の人はTNTを持っていく (Tip: TNTを置く人は下に降りてヘイトを稼ぐ)
+
+## Useful Videos
+https://www.youtube.com/watch?v=fsezJ_3iSI0
