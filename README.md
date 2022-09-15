@@ -1,5 +1,5 @@
 # Bedwars-Guides
-A Guide for Bedwars. (9/10)
+A Guide for Bedwars. (9/15)
 
 ## General Tips
 
@@ -13,6 +13,7 @@ __Defend__:
 - 常にMiner Fatigue Trapをつける
 - 拠点から繋がってる橋の数を減らす
 - ダイアモンドの優先順位は Miner Fatigue Trap > Sharpness > Protection > Heal Pool = Haste(相手の防衛がObsidianのとき) > Forge
+- 味方複数人が同じところを攻めていたら別のところを狙う (味方より敵が強いとBBされる)
 
 __Clutch__: 
 - FB/TNTでBBする
