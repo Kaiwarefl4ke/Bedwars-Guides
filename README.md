@@ -4,40 +4,38 @@ A Guide for Bedwars. (9/15)
 ## General Tips
 
 __Rush__:
-- 上を取る
-- 味方が強いなら初動はTNT
-- 突撃する準備が鉄/金不足で十分できないときはダイア回収などして待つ
-- なるべく早く拠点から出る (早い人が死んで戻ってきたとき資源がなくて困る)
+- Abuse high ground advantages = bridge high
+- If you don't have enough tools/items spend your time collecting ems/dias
+- If your slow rushing split the gen
+- If enemy has obby defence get some Haste
+- Don't trade beds
 
 __Defend__:
-- 常にMiner Fatigue Trapをつける
-- 拠点から繋がってる橋の数を減らす
-- ダイアモンドの優先順位は Miner Fatigue Trap > Sharpness > Protection > Heal Pool = Haste(相手の防衛がObsidianのとき) > Forge
-- 味方複数人が同じところを攻めていたら別のところを狙う (味方より敵が強いとBBされる)
+- Don't bridge everywhere from your base
+- Always get miner fatigue traps.
+- Priorities for team upgrades are Prot1 > Sharpness > Prot2 > Heal pool > Prot3 and 4
 
 __Clutch__: 
-- FB/TNTでBBする
-- Sharpness + Protectionを最低1つける
-- エメラルドを8個回収してダイア剣 + pot3種/ダイア剣 + エンダーパールを買う
-- 味方と敵の位置を把握する
-- Midに行けなさそうならダイア回収しつつ金リンゴで耐える
+- Use TNTs and fireballs for breaking beds
+- Fireballs helps you alot to get some final kills
+- Always get better or atleast same prot than your enemy
+- Go mid as fast as possible
+- Always get epearl
 
 __Random__:
-- 強い人の言うことを聞く
-- 常にはしご + 石剣を持っておく
-- Stats気にしてるときは2FKDR/300star以上のパーティーは避ける
-- Block Trickを使う
-- 敵の位置をできるだけ把握する
-- 攻めてる間に壊されることが多いなら攻めすぎ or 味方が弱い
-- 拠点にいるときは味方と資材を共有する
+- Listen to someone who is better than you
+- Always buy ladder + stone sword
+- If you're solo queueing or your teammates are placebo, try to track other teams even more 
+- Always split the gen
 
-- A Tip by Telly: Drag click to take no KB
+__PvP__:
+- If you're taking some 2v1, fight on bridge and knock them off, blockhit alot, abuse fall damages
+- Use blocks on pvp
+
 
 ## Tips on modes
 
 __Solos__:
-- スピーディーにプレイしたい人向け -> Midに行かなくていいようなMapを選ぶ 1方向にラッシュする ラッシュする方向とは逆のチームが来てないか or 滅ぼされないか要注意 (PvP弱いならNG)
-- 安定して勝ちたい人向け -> Midを通ってラッシュするようなMapを選ぶ 隣を潰してMidでエメラルドをたくさん回収して資材量で勝つ (PvP弱くてもOK)
 - ラッシュの方向がわかりにくいMapは控える
 - MidからFBで拠点までこれるようなMapは控える
 
